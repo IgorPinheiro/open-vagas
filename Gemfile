@@ -19,6 +19,8 @@ gem 'simple_form'
 gem 'devise'
 gem 'haml'
 gem "haml-rails", "~> 2.0"
+gem 'bootstrap', '~> 5.1.3'
+gem 'jquery-rails'
 
 #gem 'kaminari'
 #gem 'kaminari-bootstrap'
